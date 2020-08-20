@@ -1,0 +1,6 @@
+ConvertToAtlasCopcoString:
+Metoden returnerar "Error:)" för 87
+Jag la till f"x: {x}" efter varje assert för att printa ut vilket värde som ger fel svar.
+
+FindMax:
+Om listan innehåller ett negativt värde vars absolutvärde är högre än det högsta positiva värdet i listan så returneras absolutvärdet av det negativa värdet.
